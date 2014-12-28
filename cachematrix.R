@@ -4,7 +4,7 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-  m <- NULL
+        m <- NULL
         set <- function(y) {
                 x <<- y ## assign the input matrix y to the variable x in the
                 ## parent environment
